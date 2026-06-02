@@ -33,6 +33,10 @@ python Tick-Tack-Toe.py
 
 I created this project as part of a Hack Club project. While building it, I learned about Python functions, loops, conditionals, user input, and game logic. It was a fun project that helped me improve my programming skills and understand how games work.
 
+## Video Demo
+
+https://www.youtube.com/watch?v=TlPWSnDsQr4
+
 ## Author
 
 Created by colpie34.
